@@ -63,7 +63,7 @@ python photo_viewer.py img1.png img2.jpg
 ## 安装依赖
 
 ```bash
-pip install PyQt5 PyQt-Fluent-Widgets
+pip install -r requirements.txt
 ```
 
 ## 启动
